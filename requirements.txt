@@ -1,5 +1,6 @@
 insightface>=0.7.3
 onnxruntime>=1.17.0
+onnxruntime-gpu>=1.17.0
 opencv-python>=4.9.0
 numpy>=1.26.0
 faiss-cpu>=1.8.0
